@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Documents\\learn c#\\01.introduction\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B80BDA3-573E-4545-940F-377DE22D347F}|01.introduction\\01.introduction.csproj|c:\\users\\dell\\documents\\learn c#\\01.introduction\\01.introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B80BDA3-573E-4545-940F-377DE22D347F}|01.introduction\\01.introduction.csproj|solutionrelative:01.introduction\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Documents\\learn c#\\01.introduction\\01.introduction\\Program.cs",
+              "RelativeDocumentMoniker": "01.introduction\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\Documents\\learn c#\\01.introduction\\01.introduction\\Program.cs",
+              "RelativeToolTip": "01.introduction\\Program.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAmwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-08T12:24:54.618Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
