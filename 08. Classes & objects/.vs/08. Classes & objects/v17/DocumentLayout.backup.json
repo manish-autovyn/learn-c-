@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Documents\\learn c#\\08. Classes \u0026 objects\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7BDDFCEC-B435-40A6-9465-2C5513D959CC}|08. Classes \u0026 objects\\08. Classes \u0026 objects.csproj|c:\\users\\dell\\documents\\learn c#\\08. classes \u0026 objects\\08. classes \u0026 objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BDDFCEC-B435-40A6-9465-2C5513D959CC}|08. Classes \u0026 objects\\08. Classes \u0026 objects.csproj|solutionrelative:08. classes \u0026 objects\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Documents\\learn c#\\08. Classes \u0026 objects\\08. Classes \u0026 objects\\Program.cs",
+              "RelativeDocumentMoniker": "08. Classes \u0026 objects\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\Documents\\learn c#\\08. Classes \u0026 objects\\08. Classes \u0026 objects\\Program.cs",
+              "RelativeToolTip": "08. Classes \u0026 objects\\Program.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAowCgAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T12:01:50.793Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
