@@ -1,0 +1,79 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dell\\Documents\\learn c#\\11. Linq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADF8384-DB96-480E-8ABE-223B10402677}|11. Linq\\11. Linq.csproj|c:\\users\\dell\\documents\\learn c#\\11. linq\\11. linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADF8384-DB96-480E-8ABE-223B10402677}|11. Linq\\11. Linq.csproj|solutionrelative:11. linq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADF8384-DB96-480E-8ABE-223B10402677}|11. Linq\\11. Linq.csproj|c:\\users\\dell\\documents\\learn c#\\11. linq\\11. linq\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADF8384-DB96-480E-8ABE-223B10402677}|11. Linq\\11. Linq.csproj|solutionrelative:11. linq\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0ADF8384-DB96-480E-8ABE-223B10402677}|11. Linq\\11. Linq.csproj|c:\\users\\dell\\documents\\learn c#\\11. linq\\11. linq\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0ADF8384-DB96-480E-8ABE-223B10402677}|11. Linq\\11. Linq.csproj|solutionrelative:11. linq\\owner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Owner.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Documents\\learn c#\\11. Linq\\11. Linq\\Owner.cs",
+              "RelativeDocumentMoniker": "11. Linq\\Owner.cs",
+              "ToolTip": "C:\\Users\\dell\\Documents\\learn c#\\11. Linq\\11. Linq\\Owner.cs",
+              "RelativeToolTip": "11. Linq\\Owner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:48:37.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Documents\\learn c#\\11. Linq\\11. Linq\\Animal.cs",
+              "RelativeDocumentMoniker": "11. Linq\\Animal.cs",
+              "ToolTip": "C:\\Users\\dell\\Documents\\learn c#\\11. Linq\\11. Linq\\Animal.cs",
+              "RelativeToolTip": "11. Linq\\Animal.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T09:47:26.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\dell\\Documents\\learn c#\\11. Linq\\11. Linq\\Program.cs",
+              "RelativeDocumentMoniker": "11. Linq\\Program.cs",
+              "ToolTip": "C:\\Users\\dell\\Documents\\learn c#\\11. Linq\\11. Linq\\Program.cs",
+              "RelativeToolTip": "11. Linq\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAEBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T06:56:34.821Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

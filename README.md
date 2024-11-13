@@ -61,3 +61,20 @@ This repository tracks my daily learning progress in C#.
 - constructors
 - default constructors
 
+## Day 4:
+**Extension Methods**
+- what is extension methods
+- how to create
+- how to use
+
+**Generics**
+- what is Generics
+- how to create
+- how to use
+
+**LINQ**
+- what is LINQ
+- how to create
+- how to use
+- Join
+- Group
