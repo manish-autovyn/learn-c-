@@ -78,3 +78,14 @@ This repository tracks my daily learning progress in C#.
 - how to use
 - Join
 - Group
+
+## Day 5
+**Inheritance**
+- Single Level
+- Multi Level
+- Herarichal
+
+**Plymorphism**
+- Method OverLoading
+- Method Overridding
+
